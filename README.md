@@ -18,3 +18,6 @@ Vite + React + TypeScript + Chakra UI starter.
 
 - This project uses Chakra UI v3.28.1 which matches your environment.
 - If you encounter the `ChakraProvider value` TypeScript error, make sure you don't have other Chakra packages installed in the same project.
+this project is a simple app used for fetching movies form a sepcific backend api.
+  
+??
